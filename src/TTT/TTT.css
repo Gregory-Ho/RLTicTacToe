@@ -1,0 +1,24 @@
+#TTT {
+    margin: 0;
+    height: 100%;
+    background-color: #07061d;
+}
+
+.title {
+    margin: 0;
+    padding: 50px 0;
+    font-size: 40px;
+    color: #cebaff;
+}
+
+.reset-button {
+    width: 130px;
+    height: 60px;
+    background-color: #096da7;
+    border: solid #7e7eff 7px;
+    border-radius: 35px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #6ff8ff;
+    outline: none;
+}
