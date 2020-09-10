@@ -1,5 +1,6 @@
 {
-  "name": "homepage",
+  "homepage": ".",
+  "name": "RLTicTacToe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
